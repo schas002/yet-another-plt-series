@@ -1,5 +1,7 @@
 # yet-another-plt-series
 
+[![Join the chat at https://gitter.im/schas002/yet-another-plt-series](https://badges.gitter.im/schas002/yet-another-plt-series.svg)](https://gitter.im/schas002/yet-another-plt-series?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Powered by love... and awoo](https://img.shields.io/badge/powered_by_love...-and_awoo-ff69b4.svg) [![Gitter](https://img.shields.io/gitter/room/schas002/yet-another-plt-series.svg)](https://gitter.im/schas002/yet-another-plt-series)
 
 > Yet another programming language tutorial series.
